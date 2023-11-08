@@ -10,7 +10,7 @@
 📈 Exploratory Data Analysis (EDA): Through EDA, I explored the dataset and uncovered valuable insights.
 
 💡 Insights:
-- Most commonly used payment method for purchases is "PayPal."
+- The most commonly used payment method for purchases is "PayPal."
 - "Free Shipping" is the preferred shipping type.
 - "M" size is popular among both men and women.
 - "Olive" is the most popular clothing color.
@@ -18,5 +18,5 @@
 - The most common category purchased with a promo code is "Clothing."
 - "Footwear" has the highest average rating (3.79).
 - The most shopped season is "Spring."
-- Top 5 colours mostly preferred by women's :- Yellow, Olive, Pink, Magenta, green
-- This are Top 5 locations by purchased Amount(USD):- Montana - 5784, Illinois - 5617, California - 5605, Idaho - 5587, Nevada - 5514
+- Top 5 colors mostly preferred by women's:- Yellow, Olive, Pink, Magenta, green
+- This is Top 5 locations by purchased Amount(USD):- Montana - 5784, Illinois - 5617, California - 5605, Idaho - 5587, Nevada - 5514
